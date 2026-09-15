@@ -1,2 +1,22 @@
-# SelfTask_-onsole-application-
-This is a small console application for organizing tasks for yourself 
+# SelfTask
+## This is a small console application for organizing tasks for yourself 
+
+# Многозадачник
+
+##  Version 0.0.1
+- [x] Сделать приветственное окно 
+- [x] Сделать меню выбора функций
+
+## Version 0.0.2
+- [x] Обновление меню 
+- [x] Добавление функции редактирования задач 
+- [x] Дабавлена функция удаления задач 
+
+## Version 0.0.3
+- [x] Добавленно подтверждение действий 
+- [x] Добавленны разлетели 
+
+## Version 0.0.4
+- [x] Реализованно подключение к  JSON 
+- [x] Улучшен выход их программы 
+- [x] Реализованно сохронение задач 
